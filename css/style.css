@@ -117,3 +117,16 @@
     margin-bottom: 50px;
 }
 
+.secao-3 li h3 {
+    font-family: Poppins;
+    text-align: center;
+    font-size: 23px;
+    color: white;
+}
+
+.secao-3 li p {
+    font-family: Poppins;
+    color: white;
+    margin-top: 23px;
+    text-align: center;
+}
