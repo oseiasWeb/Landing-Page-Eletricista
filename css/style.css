@@ -89,3 +89,19 @@
 }
 
 /* Style Secao 3 */
+.secao-3 h2 {
+    font-family: Poppins;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 31px;
+    color: black;
+    font-weight: bold;
+}
+
+.cor2 {
+    color: #e2d409;
+}
+
+.secao-3 li {
+    margin-top: 40px;
+}
