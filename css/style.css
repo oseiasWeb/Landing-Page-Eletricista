@@ -38,7 +38,7 @@
 }
 
 .botao:hover{
-    background: linear-gradient(rgba(51, 248, 33, 0.884), rgb(20, 77, 18));
+    background: linear-gradient(rgba(65, 243, 48, 0.884), rgb(11, 56, 10));
 }
 
 /* Style Secao 1 */
@@ -65,7 +65,7 @@
     background-size: cover;
     height: 478px;
     margin-top: 90px;
-    margin-bottom: 60px;
+    margin-bottom: 80px;
 }
 
 .secao-2 h2 {
