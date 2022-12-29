@@ -100,8 +100,20 @@
 
 .cor2 {
     color: #e2d409;
+
 }
 
 .secao-3 li {
     margin-top: 40px;
+    background: linear-gradient(#00c3fa, #0060eb);
+    width: 300px;
+    height: 400px;
+    border-radius: 30px 10px;
+    border-style: solid;
+    border-width: 0px 0px 4px 0px;
+    border-color: #feec00;
+    box-shadow: 0px 13px 21px 0px rgb(0 0 0/56%);
+    padding: 20px 20px 30px 20px;
+    margin-bottom: 50px;
 }
+
