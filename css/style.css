@@ -41,7 +41,7 @@
     background: linear-gradient(rgba(51, 248, 33, 0.884), rgb(20, 77, 18));
 }
 
-/* Style Secao 1*/
+/* Style Secao 1 */
 .secao-1 h2 {
     font-family: Poppins;
     font-size: 31px;
@@ -57,4 +57,17 @@
 
 .imagens-secao {
     padding-top: 130px;
+}
+
+/* Style Secao 2 */
+.secao-2 {
+    background: url(/img/eletricista.png) no-repeat center center;
+    background-size: cover;
+    height: 478px;
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+
+.render {
+    margin-top: 77px;
 }
