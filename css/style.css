@@ -204,3 +204,41 @@
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
+/* Style Secao 6 */
+.secao-6 {
+    width: 100%;
+    height: 700px;
+    margin-top: 80px;
+}
+
+.secao-6 h2 {
+    font-family: Poppins;
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+.secao-6 p {
+    font-family: Poppins;
+    font-weight: italic;
+    color: black;
+    text-transform: uppercase;
+}
+
+.secao-6 li {
+    font-family: Poppins;
+    font-size: 18px;
+    color: black;
+}
+
+.secao-6 ul{
+    padding-top: 25px;
+}
+
+.eletrica {
+    margin-top: 50px;
+    border-radius: 20px;
+}
