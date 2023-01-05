@@ -218,7 +218,7 @@
     color: black;
     text-transform: uppercase;
     font-size: 30px;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 .secao-6 p {
@@ -239,18 +239,23 @@
 }
 
 .eletrica {
-    margin-top: 50px;
+    margin-top: 90px;
     border-radius: 20px;
 }
 
 .canais h3{
     font-family: Montserrat;
     font-size: 20px;
-    margin-top: 30px;
+    margin-top: 20px;
     font-weight: bold;
     color: #0060eb;
 }
 
 .canais p {
     margin-top: 10px;
+    text-transform: none;
+}
+
+.cta2 p {
+    text-transform: none;
 }
