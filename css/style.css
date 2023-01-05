@@ -243,4 +243,14 @@
     border-radius: 20px;
 }
 
-/* 5:32 */
+.canais h3{
+    font-family: Montserrat;
+    font-size: 20px;
+    margin-top: 30px;
+    font-weight: bold;
+    color: #0060eb;
+}
+
+.canais p {
+    margin-top: 10px;
+}
