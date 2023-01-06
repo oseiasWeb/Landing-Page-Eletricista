@@ -270,16 +270,35 @@
 }
 
 .depoimento li {
-    /* From https://css.glass */
-    background: rgba(55, 84, 212, 0.253);
+   /* From https://css.glass */
+    background: rgba(13, 63, 233, 0.41);
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(10.6px);
-    -webkit-backdrop-filter: blur(10.6px);
-    border: 1px solid rgba(13, 72, 233, 0.1);
+    backdrop-filter: blur(5.4px);
+    -webkit-backdrop-filter: blur(5.4px);
+    border: 1px solid rgba(13, 63, 233, 0.79);
 
-    height: 450px;
+    height: 535px;
     margin-top: 40px;
+    text-align: center;
+}
+
+.depoimento h3 {
+    font-family: Poppins;
+    font-size: 25px;
+    color: white;
+    margin-top: 6px;
+    font-weight: bold;
+
+}
+
+.depoimento p {
+    font-family: Poppins;
+    text-align: justify;
+    margin: 10% 10% 10%;
+    color: white;
+    margin-top: 15px;
+    font-size: 17px;
 }
 
 .depoi {
