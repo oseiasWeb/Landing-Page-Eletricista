@@ -271,10 +271,21 @@
 
 .depoimento li {
     /* From https://css.glass */
-    background: rgba(13, 72, 233, 0.22);
+    background: rgba(55, 84, 212, 0.253);
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(10.6px);
     -webkit-backdrop-filter: blur(10.6px);
     border: 1px solid rgba(13, 72, 233, 0.1);
+
+    height: 450px;
+    margin-top: 40px;
+}
+
+.depoi {
+    border-radius: 600px;
+    width: 200px;
+    height: 200px;
+    -o-object-fit: cover;
+    margin-top: 30px;
 }
