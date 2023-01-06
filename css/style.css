@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth; 
+}
+
 .topo-do-site {
     width: 100%;
     height: 800px;
@@ -387,4 +391,11 @@
     color: white;
     font-family: Poppins;
     padding-top: 13px;
+}
+
+/* Botão para o Topo */
+.voltar {
+    position: absolute;
+    left: 80%;
+    margin-top: -80px;
 }
