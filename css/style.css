@@ -262,3 +262,19 @@
 }
 
 /* Style Secao 7 */
+.secao-7 {
+    background: url(../img/depoimento.jpg) no-repeat center center; 
+    background-size: cover;
+    height: 1200px;
+    margin-top: 110px;
+}
+
+.depoimento li {
+    /* From https://css.glass */
+    background: rgba(13, 72, 233, 0.22);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10.6px);
+    -webkit-backdrop-filter: blur(10.6px);
+    border: 1px solid rgba(13, 72, 233, 0.1);
+}
