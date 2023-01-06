@@ -347,3 +347,32 @@
 .secao-8 .botao {
     margin-top: 30px;
 }
+
+/* Style Secao 9 */
+.secao-9 {
+    height: 350px;
+    background-color: #ffa500;
+    margin-bottom: 50px;
+}
+
+.secao-9 .profissional {
+    margin-top: -122px;
+}
+
+.secao-9 h2 {
+    font-family: Poppins;
+    color: white;
+    font-size: 26px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+
+.secao-9 p {
+    font-family: Poppins;
+    color: white;
+    font-size: 17px;
+    margin-top: 10px;
+    text-align: justify;
+
+}
