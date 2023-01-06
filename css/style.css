@@ -352,7 +352,6 @@
 .secao-9 {
     height: 350px;
     background-color: #ffa500;
-    margin-bottom: 50px;
 }
 
 .secao-9 .profissional {
@@ -370,9 +369,22 @@
 
 .secao-9 p {
     font-family: Poppins;
-    color: white;
-    font-size: 17px;
+    color: rgb(14, 13, 13);
+    font-size: 16px;
     margin-top: 10px;
     text-align: justify;
+}
 
+/* Style Secao Rodape */
+.rodape {
+    height: 50px;
+    width: 100%;
+    background: #0c0c0c;
+}
+
+.rodape h2 {
+    text-align: center;
+    color: white;
+    font-family: Poppins;
+    padding-top: 13px;
 }
