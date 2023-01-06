@@ -273,10 +273,9 @@
     font-family: Poppins;
     text-align: center;
     color: white;
-    font-size: 35px;
+    font-size: 30px;
     margin-top: 50px;
     text-transform: uppercase;
-
 }
 
 .depoimento li {
@@ -299,7 +298,6 @@
     color: white;
     margin-top: 6px;
     font-weight: bold;
-
 }
 
 .depoimento p {
