@@ -37,6 +37,27 @@
     .secao-3 li p {
         font-size: 15px;
     }
+
+    .secao-4 h2 {
+        font-size: 27px;
+    }
+
+    .eletricista {
+        margin-top: 90px;
+    }
+
+    .secao-4 {
+        height: 580px;
+    }
+
+    .secao-7 li h3 {
+        font-size: 23px;
+    }
+
+    .secao-7 li p{
+        font-size: 15px;
+    }
+
 }
 
 /*Smartphone*/
