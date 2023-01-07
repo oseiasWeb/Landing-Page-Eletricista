@@ -8,6 +8,35 @@
     .topo-do-site h1 {
         font-size: 28.7px;
     }
+
+    .imagens-secao {
+        display: none;
+    }
+
+    .secao-1 h2 {
+        font-size: 25.9px;
+    }
+
+    .render {
+        margin-top: 161px;
+    }
+
+    .secao-2 h2 {
+        font-size: 29px;
+        margin-top: 130px;
+    }
+
+    .secao-3 li {
+        width: 236px;
+    }
+
+    .secao-3 li h3 {
+        font-size: 19px;
+    }
+
+    .secao-3 li p {
+        font-size: 15px;
+    }
 }
 
 /*Smartphone*/
