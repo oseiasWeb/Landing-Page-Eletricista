@@ -1,9 +1,16 @@
+/* Tablet */
+@media only screen and (min-width: 768px) and (max-width: 959px){
+    .topo-do-site {
+        background-image: url(/img/banner-tablet.png);
+        background-size: cover;
+    }
+
+    .topo-do-site h1 {
+        font-size: 28.7px;
+    }
+}
+
 /*Smartphone*/
 @media only screen and (max-width: 768px){
 
-}
-
-/* Tablet */
-@media only screen and (min-width: 768px) and (max-width: 959px){
-    
 }
