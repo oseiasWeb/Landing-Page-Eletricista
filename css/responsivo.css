@@ -3,10 +3,12 @@
     .topo-do-site {
         background-image: url(/img/banner-tablet.png);
         background-size: cover;
+        height: 680px;
     }
 
     .topo-do-site h1 {
-        font-size: 28.7px;
+        font-size: 28px;
+        margin-top: 280px;
     }
 
     .imagens-secao {
@@ -50,12 +52,32 @@
         height: 580px;
     }
 
-    .secao-7 li h3 {
-        font-size: 23px;
+    .secao-7 li p{
+        font-size: 14.5px;
     }
 
-    .secao-7 li p{
+    .secao-7 li {
+        width: 236px;
+        
+    }
+
+    
+
+    .secao-9 {
+        height: 252px;
+    }
+
+    .secao-9 h2 {
+        margin-top: 20px;
+        font-size: 25px;
+    }
+
+    .secao-9 p {
         font-size: 15px;
+    }
+
+    .voltar {
+        margin-left: 130px;
     }
 
 }
