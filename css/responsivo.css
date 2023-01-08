@@ -125,10 +125,40 @@
     }
 
     .secao-3 h2 {
-        font-size: 25px;
+        font-size: 26px;
     }
 
-    .secao-3 li {
-        width: 270px;
+    .secao-4 h2 {
+        font-size: 22px;
     }
+
+    .secao-4 li {
+        font-size: 15px;
+    }
+
+    .secao-4 {
+        height: 500px;
+    }
+
+    .eletricista {
+        display: none;
+    }
+
+    .secao-5 h2{
+        font-size: 26px;
+        margin-top: 50px;
+    }
+
+    .secao-6 {
+        height: 800px;
+    }
+
+    .secao-6 .botao {
+        margin-top: 40px;
+    }
+
+    .eletrica {
+        display: none;
+    }
+
 }
