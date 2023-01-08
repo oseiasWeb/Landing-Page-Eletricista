@@ -150,15 +150,17 @@
     }
 
     .secao-6 {
-        height: 800px;
+        height: 540px;
     }
 
     .secao-6 .botao {
-        margin-top: 40px;
+        margin-top: 30px;
     }
 
     .eletrica {
         display: none;
     }
+
+    
 
 }
