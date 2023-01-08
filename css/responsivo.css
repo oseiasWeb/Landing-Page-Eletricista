@@ -84,5 +84,19 @@
 
 /*Smartphone*/
 @media only screen and (max-width: 768px){
+    .topo-do-site {
+        background-image: url(/img/banner-cel.png);
+        height: 685px;
+    }    
 
+    .topo-do-site h1 {
+        margin-top: 15px;
+        font-size: 28px;
+    }
+
+    .botao {
+        margin-top: 290px;
+    }
+
+    .imagens-secao
 }
