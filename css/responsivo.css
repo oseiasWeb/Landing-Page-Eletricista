@@ -1,6 +1,6 @@
 @media only screen and (min-width:768px) and (max-width:959px) {
     .topo-do-site {
-        background-image: url(/img/banner-tablet.webp);
+        background-image: url(../img/banner-tablet.webp);
         background-size: cover;
         height: 680px
     }
@@ -73,7 +73,7 @@
 
 @media only screen and (max-width:768px) {
     .topo-do-site {
-        background-image: url(/img/banner-cel.webp);
+        background-image: url(../img/banner-cel.webp);
         height: 695px
     }
 
