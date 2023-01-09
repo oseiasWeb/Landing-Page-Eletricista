@@ -20,5 +20,5 @@
 <br>
 <h2 align="center">*** Status Projeto ***</h2>
 <p align="center">
-<img src="./img/desenvolvimento.png"/>
+<img src="./img/desenvolvimento.webp"/>
 </p>
