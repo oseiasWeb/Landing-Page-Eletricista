@@ -39,7 +39,7 @@ html {
 .topo-do-site {
     width: 100%;
     height: 800px;
-    background: url(/img/banner.webp) center center/cover no-repeat
+    background: url(../img/banner.webp) center center/cover no-repeat
 }
 
 .botao,
@@ -96,7 +96,7 @@ html {
 }
 
 .secao-2 {
-    background: url(/img/eletricista.webp) center center/cover no-repeat;
+    background: url(../img/eletricista.webp) center center/cover no-repeat;
     height: 478px;
     margin-top: 90px;
     margin-bottom: 80px
