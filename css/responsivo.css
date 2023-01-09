@@ -86,7 +86,7 @@
 @media only screen and (max-width: 768px){
     .topo-do-site {
         background-image: url(/img/banner-cel.png);
-        height: 685px;
+        height: 695px;
     }    
 
     .topo-do-site h1 {
@@ -161,6 +161,56 @@
         display: none;
     }
 
-    
+    .secao-7 h2 {
+        font-size: 20px;
+    }
+
+    .secao-7 p {
+        font-size: 17px;
+    }
+
+    .secao-7 {
+        height: 3600px;
+    }
+
+    .secao-8 h2 {
+        font-size: 25px;
+    }
+
+    .secao-8 p {
+        font-size: 17px;
+    }
+
+    .secao-8 {
+        height: 850px;
+    }
+
+    .profissional {
+        border-radius: 500px;
+        -webkit-box-sizing: content-box;
+        box-sizing: content-box;
+        width: 300px;
+        height: 300px;
+        -o-object-fit: cover;
+        margin-top: 30px;
+    }
+
+    .secao-9 {
+        height: 550px;
+    }
+
+    .secao-9 h2 {
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .secao-9 p {
+        font-size: 16px;
+    }
+
+    .voltar {
+        margin-top: -30px;
+    }
+
 
 }
