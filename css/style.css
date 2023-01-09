@@ -5,7 +5,7 @@ html {
 .topo-do-site {
     width: 100%;
     height: 800px;
-    background: url(../img/banner.png) no-repeat center center;
+    background: url(/img/banner.webp) no-repeat center center;
     background-size: cover;
 }
 
@@ -65,7 +65,7 @@ html {
 
 /* Style Secao 2 */
 .secao-2 {
-    background: url(/img/eletricista.png) no-repeat center center;
+    background: url(/img/eletricista.webp) no-repeat center center;
     background-size: cover;
     height: 478px;
     margin-top: 90px;
@@ -267,7 +267,7 @@ html {
 
 /* Style Secao 7 */
 .secao-7 {
-    background: url(../img/depoimento.jpg) no-repeat center center; 
+    background: url(../img/depoimento.webp) no-repeat center center; 
     background-size: cover;
     height: 1300px;
     margin-top: 100px;
