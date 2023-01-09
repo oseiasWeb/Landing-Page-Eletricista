@@ -1,1 +1,190 @@
-@media only screen and (min-width:768px) and (max-width:959px){.topo-do-site{background-image:url(/img/banner-tablet.webp);background-size:cover;height:680px}.topo-do-site h1{font-size:28px;margin-top:280px}.imagens-secao{display:none}.secao-1 h2{font-size:25.9px}.render{margin-top:161px}.secao-2 h2{font-size:29px;margin-top:130px}.secao-3 li,.secao-7 li{width:236px}.secao-3 li h3{font-size:19px}.secao-3 li p,.secao-9 p{font-size:15px}.secao-4 h2{font-size:27px}.eletricista{margin-top:90px}.secao-4{height:580px}.secao-7 li p{font-size:14.5px}.secao-9{height:252px}.secao-9 h2{margin-top:20px;font-size:25px}.voltar{margin-left:130px}}@media only screen and (max-width:768px){.topo-do-site{background-image:url(/img/banner-cel.webp);height:695px}.topo-do-site h1{margin-top:15px;font-size:28px}.botao{margin-top:290px}.profissional,.secao-1 h2,.secao-6 .botao{margin-top:30px}.eletrica,.eletricista,.imagens-secao,.render{display:none}.secao-1 h2{font-size:28px}.secao-1{height:900px}.secao-2 h2{font-size:24px;margin-top:35px}.secao-2{height:350px}.secao-3 h2{font-size:26px}.secao-4 h2{font-size:22px}.secao-4 li{font-size:15px}.secao-4{height:500px}.secao-5 h2{font-size:26px;margin-top:50px}.secao-6{height:540px}.secao-7 h2{font-size:20px}.secao-7 p,.secao-8 p{font-size:17px}.secao-7{height:3600px}.secao-8 h2{font-size:25px}.secao-8{height:850px}.profissional{border-radius:500px;-webkit-box-sizing:content-box;box-sizing:content-box;width:300px;height:300px;-o-object-fit:cover}.secao-9{height:550px}.secao-9 h2{margin-top:10px;text-align:center}.secao-9 p{font-size:16px}.voltar{margin-top:-30px}}
+@media only screen and (min-width:768px) and (max-width:959px) {
+    .topo-do-site {
+        background-image: url(/img/banner-tablet.webp);
+        background-size: cover;
+        height: 680px
+    }
+
+    .topo-do-site h1 {
+        font-size: 28px;
+        margin-top: 280px
+    }
+
+    .imagens-secao {
+        display: none
+    }
+
+    .secao-1 h2 {
+        font-size: 25.9px
+    }
+
+    .render {
+        margin-top: 161px
+    }
+
+    .secao-2 h2 {
+        font-size: 29px;
+        margin-top: 130px
+    }
+
+    .secao-3 li,
+    .secao-7 li {
+        width: 236px
+    }
+
+    .secao-3 li h3 {
+        font-size: 19px
+    }
+
+    .secao-3 li p,
+    .secao-9 p {
+        font-size: 15px
+    }
+
+    .secao-4 h2 {
+        font-size: 27px
+    }
+
+    .eletricista {
+        margin-top: 90px
+    }
+
+    .secao-4 {
+        height: 580px
+    }
+
+    .secao-7 li p {
+        font-size: 14.5px
+    }
+
+    .secao-9 {
+        height: 252px
+    }
+
+    .secao-9 h2 {
+        margin-top: 20px;
+        font-size: 25px
+    }
+
+    .voltar {
+        margin-left: 130px
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .topo-do-site {
+        background-image: url(/img/banner-cel.webp);
+        height: 695px
+    }
+
+    .topo-do-site h1 {
+        margin-top: 15px;
+        font-size: 28px
+    }
+
+    .botao {
+        margin-top: 290px
+    }
+
+    .profissional,
+    .secao-1 h2,
+    .secao-6 .botao {
+        margin-top: 30px
+    }
+
+    .eletrica,
+    .eletricista,
+    .imagens-secao,
+    .render {
+        display: none
+    }
+
+    .secao-1 h2 {
+        font-size: 28px
+    }
+
+    .secao-1 {
+        height: 900px
+    }
+
+    .secao-2 h2 {
+        font-size: 24px;
+        margin-top: 35px
+    }
+
+    .secao-2 {
+        height: 350px
+    }
+
+    .secao-3 h2 {
+        font-size: 26px
+    }
+
+    .secao-4 h2 {
+        font-size: 22px
+    }
+
+    .secao-4 li {
+        font-size: 15px
+    }
+
+    .secao-4 {
+        height: 500px
+    }
+
+    .secao-5 h2 {
+        font-size: 26px;
+        margin-top: 50px
+    }
+
+    .secao-6 {
+        height: 540px
+    }
+
+    .secao-7 h2 {
+        font-size: 20px
+    }
+
+    .secao-7 p,
+    .secao-8 p {
+        font-size: 17px
+    }
+
+    .secao-7 {
+        height: 3600px
+    }
+
+    .secao-8 h2 {
+        font-size: 25px
+    }
+
+    .secao-8 {
+        height: 850px
+    }
+
+    .profissional {
+        border-radius: 500px;
+        -webkit-box-sizing: content-box;
+        box-sizing: content-box;
+        width: 300px;
+        height: 300px;
+        -o-object-fit: cover
+    }
+
+    .secao-9 {
+        height: 550px
+    }
+
+    .secao-9 h2 {
+        margin-top: 10px;
+        text-align: center
+    }
+
+    .secao-9 p {
+        font-size: 16px
+    }
+
+    .voltar {
+        margin-top: -30px
+    }
+}
