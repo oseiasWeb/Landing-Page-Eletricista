@@ -13,6 +13,15 @@
 
 <img align="center" src="./img/animacao.gif" alt="Gif sistema" title="Gif sistema"><p>Gif - funcionalidades do sistema</p>
 
+<h2 align="center">*** Responsividade ***</h2>
+<p>O projeto apresenta responsividade na navegação nos principais dispositivos:<br></p>
+<ul>
+    <li>Desktop</li>
+    <li>Tablet</li>
+    <li>Smartphone</li>
+</ul>
+<img align="center" src="./img/img-responsivo.webp" alt="img sistema" title="img sistema">
+
 <h2 align="center">*** Link da página ***</h2>
 <p>Abaixo temos o link da página para visualização e testes:</p>
 🔗 <a href="https://oseiasweb.github.io/Landing-Page-Eletricista/" target="_blank">Landing Page - Eletricista</a><br>
@@ -20,5 +29,5 @@
 <br>
 <h2 align="center">*** Status Projeto ***</h2>
 <p align="center">
-<img src="./img/desenvolvimento.webp"/>
+<img src="./img/finalizado.webp"/>
 </p>
