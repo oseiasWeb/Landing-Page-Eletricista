@@ -12,7 +12,7 @@
 
 <h2 align="center">🤔 Como Utilizar</h2>
  <p>Com ajuda do mouse/teclado é possível navegar pela página e solicitar orçamento, verificar serviços e localização do profissional. Abaixo temos um pequeno gif com a apresentação do sistema:</p><br>
-<img align="center" src="./src/img/page.gif" alt="Gif sistema" title="Gif sistema"><p><i>Gif - funcionalidades da página</i></p>
+<img align="center" src="./src/img/" alt="Gif sistema" title="Gif sistema"><p><i>Gif - funcionalidades da página</i></p>
 
 
 
