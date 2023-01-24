@@ -12,27 +12,22 @@
 
 <h2 align="center">🤔 Como Utilizar</h2>
  <p>Com ajuda do mouse/teclado é possível navegar pela página e solicitar orçamento, verificar serviços e localização do profissional. Abaixo temos um pequeno gif com a apresentação do sistema:</p><br>
-<img align="center" src="./src/img/" alt="Gif sistema" title="Gif sistema"><p><i>Gif - funcionalidades da página</i></p>
+<img align="center" src="./img/animacao.gif" alt="Gif sistema" title="Gif sistema"><p><i>Gif - funcionalidades do sistem</i></p>
 
-
-
-<img align="center" src="./img/animacao.gif" alt="Gif sistema" title="Gif sistema"><p>Gif - funcionalidades do sistema</p>
-
-<h2 align="center">*** Responsividade ***</h2>
-<p>O projeto apresenta responsividade na navegação nos principais dispositivos:<br></p>
+<h2 align="center">📐 Página Responsiva ✂️</h2>
+<p>O projeto apresenta responsividade na navegação dos principais dispositivos:<br></p>
 <ul>
-    <li>Desktop</li>
-    <li>Tablet</li>
-    <li>Smartphone</li>
+    <li>Desktop 🖥️</li>
+    <li>Tablet 💻</li>
+    <li>Smartphone 📱</li>
 </ul>
-<img align="center" src="./img/img-responsivo.webp" alt="img sistema" title="img sistema">
+<img align="center" src="./img/respon.gif" alt="Gif sistema" title="Gif sistema"><p><i>Gif - Responsividade da página em diversas telas.</i></p>
 
-<h2 align="center">*** Link da página ***</h2>
-<p>Abaixo temos o link da página para visualização e testes:</p>
-🔗 <a href="https://oseiasweb.github.io/Landing-Page-Eletricista/" target="_blank">Landing Page - Eletricista</a><br>
+<h2 align="center">🔗 Link da página</h2>
+<p>Logo abaixo temos o link da página para visualização e testes:</p>
+👉 <a href="https://oseiasweb.github.io/Landing-Page-Filme/" target="_blank">Landing Page - Eletricista</a><br><br>
 
-<br>
-<h2 align="center">*** Status Projeto ***</h2>
+<h2 align="center">🏆 Status Projeto</h2>
 <p align="center">
-<img src="./img/desenvolvimento.webp"/>
+ <img src="./img/finalizado.webp"/>
 </p>
