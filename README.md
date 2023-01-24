@@ -1,15 +1,20 @@
-<h1 align="center">Landing Page - Eletricista</h1>
+<h1 align="center">🔌 Landing Page - Eletricista ⚡</h1>
 
 <p>Construção de uma landing Page voltada para apresentação de algum negócio. O exemplo é de um profissional da área de elétrica. O projeto pode ser adaptado para outros seguimentos.</p>
 
-<h2 align="center">*** Tecnologias Utilizadas ***</h2>
-<ul>
-    <li>HTML ✏️</li>
-    <li>CSS 🎨</li>
-</ul>
+<div align="center" valign="top"><br>
+ <h2>🕹️ Tecnologias Utilizadas</h2>
+    <ul align="center">
+        <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </ul>
+</div><br>
 
-<h2 align="center">*** Como Utilizar ***</h2>
-<p>Com ajuda do mouse/teclado é possível navegar pela página e solicitar orçamento, verificar serviços e localização do profissional. Abaixo temos um pequeno gif com a apresentação do sistema:</p>
+<h2 align="center">🤔 Como Utilizar</h2>
+ <p>Com ajuda do mouse/teclado é possível navegar pela página e solicitar orçamento, verificar serviços e localização do profissional. Abaixo temos um pequeno gif com a apresentação do sistema:</p><br>
+<img align="center" src="./src/img/page.gif" alt="Gif sistema" title="Gif sistema"><p><i>Gif - funcionalidades da página</i></p>
+
+
 
 <img align="center" src="./img/animacao.gif" alt="Gif sistema" title="Gif sistema"><p>Gif - funcionalidades do sistema</p>
 
