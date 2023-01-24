@@ -64,7 +64,7 @@ html {
 .topo-do-site {
     width: 100%;
     height: 800px;
-    background: url(../img/banner.webp) center center/cover no-repeat
+    background: url(../img/banner.png) center center/cover no-repeat
 }
 
 .botao,
@@ -87,11 +87,12 @@ html {
 
 .topo-do-site p {
     color: #feec00;
-    margin-top: 15px
+    margin-top: 15px;
+    text-shadow: 0.1em 0.1em 0.5em black
 }
 
 .cor {
-    color: #feec00
+    color: #feec00;
 }
 
 .botao {
@@ -114,6 +115,10 @@ html {
 .secao-1 h2 {
     color: #082996;
     margin-top: 90px
+}
+
+.secao-1 img {
+    border-radius: 15px;
 }
 
 .secao-1 p {
@@ -146,6 +151,12 @@ html {
     margin-top: 15px
 }
 
+.secao-2 img {
+    margin-top: 60px;
+    border-radius: 12px;
+    width: 420px;
+}
+
 .secao-3 h2,
 .secao-4 h2 {
     font-weight: 700;
@@ -157,6 +168,7 @@ html {
 }
 
 .cor2 {
+    
     color: #e2d409
 }
 
